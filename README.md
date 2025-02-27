@@ -19,7 +19,7 @@ Simples de seguir, opções baseadas na Web e apresentação intuitiva, Reservas
 ### Instalação
 
 1. Baixe e instale o XAMPP na sua máquina.
-2. Clone ou baixe o repositório.
+2. Baixe o arquivo mrbs.zip.
 3. Extraia todos os arquivos e mova-os para a pasta 'htdocs' do seu diretório XAMPP e nomeie-o como mrbs.
 4. Inicie o Apache e o Mysql no seu painel de controle XAMPP.
 5. Abra seu navegador e digite 'localhost/phpmyadmin'
